@@ -13,4 +13,7 @@ stops[3]
  #How many ways can we return "Falkirk High" from the array?
  stops.reverse #Reverse the positions of the stops in the array
 
+for station in stops
+  p station
+end
 #Print out all the stops using a for loop
