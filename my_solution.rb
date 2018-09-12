@@ -9,6 +9,7 @@ stops.delete_at(1) #Delete "Cumbernauld" from the array by index
 
  stops.length #How many stops there are in the array?
 
-p stops.select(1) #How many ways can we return "Falkirk High" from the array?
+p stops[3]
+ #How many ways can we return "Falkirk High" from the array?
 #Reverse the positions of the stops in the array
 #Print out all the stops using a for loop
